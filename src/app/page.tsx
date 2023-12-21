@@ -117,7 +117,7 @@ export default function Home() {
                 <IoIosInformationCircle />
               </div>
               <h3 className="text-gray-500 text-sm">
-                We need a password to keep your information safe.But dont worry,we'll also send your custom URL via email
+                We need a password to keep your information safe.But dont worry,we will also send your custom URL via email
               </h3>
             </div>
           </div>
