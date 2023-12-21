@@ -34,7 +34,7 @@ export default function Details({ params }: any) {
         setLoading(false);
       }
     })();
-  }, []);
+  }, [id]);
 
   return (
     <main className="flex min-h-screen flex-col items-center align-middle p-24">
